@@ -1,0 +1,25 @@
+{
+  "name": "gittest",
+  "version": "1.0.0",
+  "description": "git学习实践",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "prepare": "husky install",
+    "scriptname": "cmd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuhao1234/GitTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuhao1234/GitTest/issues"
+  },
+  "homepage": "https://github.com/liuhao1234/GitTest#readme",
+  "devDependencies": {
+    "husky": "^8.0.3"
+  }
+}
